@@ -1,0 +1,41 @@
+body
+{
+    background-color: #EEEEEE;
+}
+
+p
+{
+    font-size: 5vh;
+    margin-bottom: 5vh;
+}
+
+.container
+{
+    margin-top: 10vh;
+}
+
+.formContent
+{
+    width: 80vh;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+}
+
+.tableData
+{
+    align-items: center;
+}
+
+#pikachu
+{
+    position: fixed;
+    z-index: 1;
+
+    width: 10vh;
+    margin-top: 2.4vh;
+    margin-left: 56vh;
+}

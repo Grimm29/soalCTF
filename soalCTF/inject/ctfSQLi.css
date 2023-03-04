@@ -1,0 +1,50 @@
+body
+{
+   background-color: #F7F7F7;
+}
+
+#gambar
+{
+    z-index: 1;
+    position: fixed;
+    margin-top: 1vh;
+    width: 20vh;
+    margin-left: 100vh;
+}
+
+.card
+{
+    margin-top: 17vh;
+    z-index: 2;
+    position: fixed;
+}
+
+p
+{
+    font-size: 5vh;
+    margin-bottom: 5vh;
+}
+
+.container
+{
+    margin-top: 10vh;
+}
+
+.formContent
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.capybara
+{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.flag
+{
+    display: flex;
+    justify-content: center;   
+}
